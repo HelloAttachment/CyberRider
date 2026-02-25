@@ -1,6 +1,6 @@
 # Cyber Ride - Garmin Edge Data Field
 
-![imgs/hero-image.png](imgs/hero-image.png)
+![DATAFIELD](imgs/hero-img.png)
 *A hardcore, military-inspired HUD data field for Garmin Edge series.*
 
 [English](#english) | [中文说明](#chinese)
