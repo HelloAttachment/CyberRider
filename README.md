@@ -29,7 +29,7 @@ To maintain the integrity of the complex vector graphics and HUD design, **this 
 1. On your Edge device, go to **Activity Profiles** > Select your profile (e.g., Road).
 2. Go to **Data Screens** > Add new or edit an existing screen.
 3. Set **Layout and Data Fields** to **1 Field** (the entire screen).
-4. Select `Connect IQ` > `GEEK HUD`.
+4. Select `Connect IQ` > `Cyber Ride`.
 *(Note: If placed in a split-screen layout, the UI will display a warning to change the layout.)*
 
 ### Unlock & Purchase (KiezelPay)
@@ -65,7 +65,7 @@ This is a premium data field with a free trial. Once the trial expires, an unloc
 1. 在 Edge 码表上，进入 **活动模式** > 选择你的常用模式（如：公路骑行）。
 2. 进入 **数据页面** > 新增或编辑现有页面。
 3. 将 **布局和数据字段** 设置为 **1 栏**（即占据整个屏幕）。
-4. 选择 `Connect IQ` > 找到并选中 `GEEK HUD`。
+4. 选择 `Connect IQ` > 找到并选中 `Cyber Ride`。
 *（注：如果放置在多栏分屏布局中，界面将弹出警告，提示您更改布局。）*
 
 ### 解锁与购买 (KiezelPay)
