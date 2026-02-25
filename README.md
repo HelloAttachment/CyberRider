@@ -1,6 +1,6 @@
 # Cyber Ride - Garmin Edge Data Field
 
-![Screenshot Placeholder](link-to-your-hero-image.png)
+![imgs/hero-image.png](link-to-your-hero-image.png)
 *A hardcore, military-inspired HUD data field for Garmin Edge series.*
 
 [English](#english) | [中文说明](#chinese)
@@ -8,10 +8,10 @@
 ---
 
 <a name="english"></a>
-## 🇬🇧 English
+## English
 
 ### Overview
-**GEEK HUD** is a premium, single-screen data field designed for Garmin Edge cycling computers (540 / 840 / 1040 / 1050). Inspired by sci-fi heads-up displays and military interfaces, it provides all your crucial cycling metrics in one highly legible, high-contrast dashboard. 
+**Cyber Ride** is a premium, single-screen data field designed for Garmin Edge cycling computers (540 / 840 / 1040 / 1050). Inspired by sci-fi heads-up displays and military interfaces, it provides all your crucial cycling metrics in one highly legible, high-contrast dashboard. 
 
 ### Core Features
 * [cite_start]**Dynamic Speed Gauge:** A cyan arc that fills based on your current speed[cite: 42]. [cite_start]It turns warning red if you exceed the maximum speed limit[cite: 42].
@@ -42,7 +42,7 @@ This is a premium data field with a free trial. [cite_start]Once the trial expir
 ---
 
 <a name="chinese"></a>
-## 🇨🇳 中文说明
+## 中文说明
 
 ### 简介
 **Cyber Ride** 是一款专为 Garmin Edge 系列（540 / 840 / 1040 / 1050）打造的高级单屏数据字段。采用硬核机甲与军事风格的 HUD（平视显示器）设计，在提供极高对比度的同时，将所有核心骑行数据集成在一个屏幕中。
